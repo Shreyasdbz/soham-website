@@ -33,7 +33,7 @@ const Contact = () => {
       <ContactCard
         title="Twitter"
         imgSrc="https://img.icons8.com/cute-clipart/128/000000/twitter.png"
-        contactLink="https://www.twitter.com"
+        contactLink="https://twitter.com/shreyasdbz"
       />
     </div>
   );
