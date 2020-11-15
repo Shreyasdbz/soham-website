@@ -8,7 +8,7 @@ import parklandLogo from "../assets/parklandLogo.png";
 const Education = () => {
   return (
     <div className="section Education">
-      <div className="education-title">
+      <div className="section-title">
         <div className="education-title-text">My Education</div>
       </div>
       <div className="card edu-card">
@@ -67,7 +67,7 @@ const Education = () => {
           <li className="edu-body-text-li">PLTW - Intro to Eng. Design</li>
         </div>
       </div>
-      <div className="education-end">
+      <div className="section-end">
         <div className="education-end-text">
           Outside of school, I'm also learning about ...
         </div>
