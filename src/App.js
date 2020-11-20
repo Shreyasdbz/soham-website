@@ -13,7 +13,7 @@ import Robotics from "./sections/Robotics";
 import Contact from "./sections/Contact";
 
 const App = () => {
-  const [authenticated, set_authenticated] = useState(false);
+  const [authenticated, set_authenticated] = useState(true);
 
   const authenticate = (action) => {
     // action == "UNLOCK" / "LOCK"
